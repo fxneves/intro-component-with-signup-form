@@ -8,7 +8,7 @@ body {
   width: 100vw;
   height: 100vh;
 
-  background: hsl(0, 100%, 74%) url(../assets/bg-intro-mobile.png) repeat center;
+  background: hsl(0, 100%, 74%) url(../assets/bg-intro-desktop.png) repeat center;
   color: white;
 
   font-family: "Poppins", sans-serif;
