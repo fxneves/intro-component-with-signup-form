@@ -18,7 +18,7 @@
 
 <p>Utilizei este desafio para praticar a manipulação da DOM com JavaScript e alguns conceitos de responsividade que tinha visto em alguns artigos e videos pela internet. A construção da página é bem simples podendo ser feita utilizando apenas o básico do flexbox ou grid layout.</p>
 
-<h2>Sobre os desafios da FrontEnd Mentor</h2>
+# Sobre os desafios da FrontEnd Mentor
 <p>Boa parte dos desafios disponibilizados são gratuitos e com diferentes niveis para prática. Ao iniciar um desafio na plataforma, não há prazo de conclusão, e todos os designs e assests estão disponiveis para download.</p>
 <p>A frontEnd Mentor permite o uso de qualquer ferramenta para a conclusão do desafio caso haja algo que você tenha interesse de praticar.</p>
 <p>Os designs estão no formato estático JPG. Caso queira que os arquivos de design com mais detalhes, você pode se inscrever como membro PRO e obter acesso ao Figma.</p>
